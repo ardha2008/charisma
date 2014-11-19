@@ -1,0 +1,9 @@
+klo misal nama foldernya km ganti, itu kn masih charisma nama foldernya
+misal klo diganti namanya jadi mtic
+ntar km cari file charisma.js di folder assets/charisma/js/charisma.js
+trus km edit dkit
+var baseAssets = "http://localhost/charisma/assets/charisma/";
+
+ubah jadi
+
+var baseAssets = "http://localhost/mtic/assets/charisma/";
